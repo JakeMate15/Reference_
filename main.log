@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.7.17)  1 SEP 2023 12:29
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.7.17)  1 SEP 2023 12:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -442,31 +442,50 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 10.
 
-(./EstructurasDeDatos/Unordered_Map.cpp) (./Varios/Template.cpp [1
+(./EstructurasDeDatos/Unordered_Map.cpp)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/.tex [1
 
-])
-(./Varios/StringtoVi.cpp) (./Varios/GenerarPerm.cpp)
+]
+Overfull \hbox (12.08594pt too wide) in paragraph at lines 21--22
+[][][][] 
+ []
 
+) (./EstructurasDeDatos/STIterativo.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2])
+(/usr/share/texlive/texmf-dist/tex/latex/tools/.tex
+Overfull \hbox (12.08594pt too wide) in paragraph at lines 21--22
+[][][][] 
+ []
+
+) (./EstructurasDeDatos/STLazyIterativo.cpp [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./Varios/Template.cpp [4]) (./Varios/StringtoVi.cpp) (./Varios/GenerarPerm.cpp
+) 
 AED: lastpage setting LastPage
-[2
+[5] (./main.aux)
 
-] (./main.aux)
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 
 Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: A0176E3D60A07F017F46122F5386036B;498
-(rerunfilecheck)             After:  390867BFBD09A93D08EE6528A0FF426F;772.
+(rerunfilecheck)             Before: 390867BFBD09A93D08EE6528A0FF426F;772
+(rerunfilecheck)             After:  4750C27F67DF732B36BFBB377A88A55A;1451.
  ) 
 Here is how much of TeX's memory you used:
- 12220 strings out of 478190
- 191275 string characters out of 5854827
- 992479 words of memory out of 5000000
- 32634 multiletter control sequences out of 15000+600000
+ 12514 strings out of 478190
+ 194616 string characters out of 5854827
+ 1267479 words of memory out of 5000000
+ 32917 multiletter control sequences out of 15000+600000
  471398 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,12n,67p,252b,1910s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,12n,67p,252b,1911s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (2 pages).
+Output written on main.pdf (5 pages).
