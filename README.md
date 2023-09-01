@@ -1,2 +1,2 @@
-# Reference_
+# Reference
 Competitive programing reference
