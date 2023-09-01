@@ -1,3 +1,11 @@
 main.aux
 main.out
 **/a.out
+*.exe
+*.out
+_minted-*
+*.aux
+*.log
+*.mintedcmd
+*.toc
+*.synctex.gz
