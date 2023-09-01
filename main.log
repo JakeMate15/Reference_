@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.7.17)  1 SEP 2023 11:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.7.17)  1 SEP 2023 12:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -442,9 +442,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 10.
 
-(./Template/Template.cpp) 
+(./EstructurasDeDatos/Unordered_Map.cpp) (./Varios/Template.cpp [1
+
+])
+(./Varios/StringtoVi.cpp) (./Varios/GenerarPerm.cpp)
+
 AED: lastpage setting LastPage
-[1
+[2
 
 ] (./main.aux)
 
@@ -453,16 +457,16 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: F5839ACD097EF7A0D0A5FE698CB5CE59;165
-(rerunfilecheck)             After:  4B95B30D7EE725BEBFA2D35FAE387DB3;170.
+(rerunfilecheck)             Before: A0176E3D60A07F017F46122F5386036B;498
+(rerunfilecheck)             After:  390867BFBD09A93D08EE6528A0FF426F;772.
  ) 
 Here is how much of TeX's memory you used:
- 12082 strings out of 478190
- 189387 string characters out of 5854827
- 873479 words of memory out of 5000000
- 32506 multiletter control sequences out of 15000+600000
+ 12220 strings out of 478190
+ 191275 string characters out of 5854827
+ 992479 words of memory out of 5000000
+ 32634 multiletter control sequences out of 15000+600000
  471398 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,11n,67p,252b,1288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,12n,67p,252b,1910s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (1 page).
+Output written on main.pdf (2 pages).

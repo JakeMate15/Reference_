@@ -1,3 +1,7 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Varios}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Template}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {1}Estructuras de Datos}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Unordered Map}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Varios}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Template}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}String a vector<int>}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Generar permutaciones}{2}{subsection.2.3}%
