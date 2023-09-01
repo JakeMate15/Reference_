@@ -1,0 +1,1 @@
+__builtin_popcount(maks) // Count the numbers of on bits
